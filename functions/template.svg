@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 421.004 670.5">
+	<g id="content" transform="translate(-87.12 -87.667)">
+		<path id="Path_1" data-name="Path 1" d="M112.957,124.786V113.048l17-8.461v-1.6l-18.446,9.222v13.263l-7.164,3.582V115.792l-1.449.762v13.262L95.733,133.4V120.137l-1.449.686v13.261l-7.164,3.583v-25l50-25v25Z" fill="#fd664e" />
+		<text id="INVOICE" transform="translate(161.058 123.666)" fill="#302b2a" font-size="23" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em">
+			<tspan x="0" y="0">
+				INVOICE
+			</tspan>
+		</text>
+		<text id="TOTAL_DUE" data-name="TOTAL DUE" transform="translate(507.582 625.233)" fill="#302b2a" font-size="8" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em">
+			<tspan x="-45.806" y="0">
+				TOTAL DUE
+			</tspan>
+		</text>
+		<text id="DUE_BY" data-name="DUE BY" transform="translate(246.058 625.233)" fill="#302b2a" font-size="8" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em">
+			<tspan x="0" y="0">
+				DUE BY
+			</tspan>
+		</text>
+		<text id="BANK_INFO" data-name="BANK INFO" transform="translate(87.12 625.233)" fill="#302b2a" font-size="8" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em">
+			<tspan x="0" y="0">
+				BANK INFO
+			</tspan>
+		</text>
+		<text id="DESCRIPTION" transform="translate(87.583 310.605)" fill="#302b2a" font-size="8" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em">
+			<tspan x="0" y="0">
+				DESCRIPTION
+			</tspan>
+		</text>
+		<text id="SUBTOTAL" transform="translate(507.583 310.605)" fill="#302b2a" font-size="8" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em">
+			<tspan x="-41.635" y="0">
+				SUBTOTAL
+			</tspan>
+		</text>
+		<text id="RATE" transform="translate(320.166 310.605)" fill="#302b2a" font-size="8" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em">
+			<tspan x="-10.005" y="0">
+				RATE
+			</tspan>
+		</text>
+		<text id="name_email.com_07777_888_999_website.com" data-name="name@email.com   |   07777 888 999   |   website.com" transform="translate(508.124 754.167)" fill="#302b2a" font-size="8" font-family="SegoeUI, Segoe UI">
+			<tspan x="-189.188" y="0" xml:space="preserve">
+				name@email.com
+			</tspan>
+			<tspan y="0" fill="#a3a19b">
+				|
+			</tspan>
+			<tspan y="0" xml:space="preserve">
+				07777 888 999
+			</tspan>
+			<tspan y="0" fill="#a3a19b">
+				|
+			</tspan>
+			<tspan y="0" xml:space="preserve">
+				website.com
+			</tspan>
+		</text>
+		<text id="Website_design_Logo_design" data-name="Website design
+Logo design" transform="translate(87.667 359.299)" fill="#302b2a" font-size="12" font-family="SegoeUI, Segoe UI">
+			<tspan x="0" y="0">
+				Website design
+			</tspan>
+			<tspan x="0" y="38">
+				Logo design
+			</tspan>
+		</text>
+		<text id="_12.34_12.34" data-name="£12.34
+£12.34" transform="translate(320.167 359.299)" fill="#302b2a" font-size="12" font-family="SegoeUI, Segoe UI">
+			<tspan x="-17.473" y="0">
+				£12.34
+			</tspan>
+			<tspan x="-17.473" y="38">
+				£12.34
+			</tspan>
+		</text>
+		<text id="HOURS" transform="translate(398.333 310.605)" fill="#302b2a" font-size="8" font-family="SegoeUI, Segoe UI" letter-spacing="0.1em">
+			<tspan x="-14.721" y="0">
+				HOURS
+			</tspan>
+		</text>
+		<text id="_100_100" data-name="100
+100" transform="translate(397.333 359.299)" fill="#302b2a" font-size="12" font-family="SegoeUI, Segoe UI">
+			<tspan x="-9.703" y="0">
+				100
+			</tspan>
+			<tspan x="-9.703" y="38">
+				100
+			</tspan>
+		</text>
+		<text id="_1234.00_1234.00" data-name="£1234.00
+£1234.00" transform="translate(507.583 359.299)" fill="#fd664e" font-size="12" font-family="SegoeUI, Segoe UI">
+			<tspan x="-47.883" y="0">
+				£1234.00
+			</tspan>
+			<tspan x="-47.883" y="38">
+				£1234.00
+			</tspan>
+		</text>
+		<text id="Your_Name_Your_Address_Town_City_Postcode" data-name="Your Name
+Your Address
+Town, City,
+Postcode" transform="translate(507.583 207.438)" fill="#302b2a" font-size="10" font-family="SegoeUI, Segoe UI">
+			<tspan x="-48.794" y="0">
+				Your Name
+			</tspan>
+			<tspan x="-57.803" y="15">
+				Your Address
+			</tspan>
+			<tspan x="-46.924" y="30">
+				Town, City,
+			</tspan>
+			<tspan x="-40.317" y="45">
+				Postcode
+			</tspan>
+		</text>
+		<text id="Client_Name" data-name="Client Name" transform="translate(87.667 210.938)" fill="#302b2a" font-size="16" font-family="SegoeUI, Segoe UI">
+			<tspan x="0" y="0">
+				Client Name
+			</tspan>
+		</text>
+		<text id="_2468.00" data-name="£2468.00" transform="translate(508.124 677.695)" fill="#fd664e" font-size="23" font-family="SegoeUI, Segoe UI">
+			<tspan x="-91.775" y="0">
+				£2468.00
+			</tspan>
+		</text>
+		<text id="_18_May_16" data-name="18 May ‘16" transform="translate(246.058 677.695)" fill="#302b2a" font-size="23" font-family="SegoeUI, Segoe UI">
+			<tspan x="0" y="0">
+				18 May ‘16
+			</tspan>
+		</text>
+		<text id="Account_No:_Sort_Code:" data-name="Account No:
+Sort Code:" transform="translate(87.12 669.195)" fill="#302b2a" font-size="10" font-family="SegoeUI, Segoe UI">
+			<tspan x="0" y="0">
+				Account No:
+			</tspan>
+			<tspan x="0" y="13">
+				Sort Code:
+			</tspan>
+		</text>
+		<text id="_123_456_78_01_23_45" data-name="123 456 78
+01 23 45" transform="translate(146.744 669.195)" fill="#302b2a" font-size="10" font-family="SegoeUI, Segoe UI">
+			<tspan x="0" y="0">
+				123 456 78
+			</tspan>
+			<tspan x="0" y="13">
+				01 23 45
+			</tspan>
+		</text>
+		<text id="Thank_you_" data-name="Thank you!" transform="translate(107.667 754.167)" fill="#302b2a" font-size="16" font-family="SegoeUI, Segoe UI">
+			<tspan x="0" y="0">
+				Thank you!
+			</tspan>
+		</text>
+		<rect id="Rectangle_2" data-name="Rectangle 2" width="420.457" height="0.82" transform="translate(87.666 319.528)" fill="#d1cfc9" />
+		<rect id="Rectangle_3" data-name="Rectangle 3" width="419.914" height="0.82" transform="translate(87.666 635.25)" fill="#d1cfc9" />
+		<rect id="Rectangle_4" data-name="Rectangle 4" width="419.914" height="0.82" transform="translate(87.666 703.618)" fill="#d1cfc9" />
+		<text id="Date_Issued:_Invoice_No:" data-name="Date Issued:
+Invoice No:" transform="translate(87.12 237.333)" fill="#302b2a" font-size="10" font-family="SegoeUI, Segoe UI">
+			<tspan x="0" y="0">
+				Date Issued:
+			</tspan>
+			<tspan x="0" y="15">
+				Invoice No:
+			</tspan>
+		</text>
+		<text id="_04_May_16_12345" data-name="04 May ‘16
+12345" transform="translate(146.291 237.333)" fill="#302b2a" font-size="10" font-family="SegoeUI, Segoe UI">
+			<tspan x="0" y="0">
+				04 May ‘16
+			</tspan>
+			<tspan x="0" y="15">
+				12345
+			</tspan>
+		</text>
+		<path id="Path_2" data-name="Path 2" d="M99.434,744.4a3.362,3.362,0,0,0-4.512,0l-.846.786-.846-.786a3.362,3.362,0,0,0-4.512,0,3.176,3.176,0,0,0,0,4.722l5.358,4.983,5.358-4.983A3.176,3.176,0,0,0,99.434,744.4Z" fill="#fd664e" />
+	</g>
+</svg>
